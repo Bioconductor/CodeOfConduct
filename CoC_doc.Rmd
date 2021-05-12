@@ -1,5 +1,10 @@
 ---
 title: "Code of Conduct"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 author: "Bioconductor Code of Conduct Committee"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
