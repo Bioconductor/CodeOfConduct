@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "Bioconductor Code of Conduct Committee"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Code of Conduct Document"
+      href: CoC_doc.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
