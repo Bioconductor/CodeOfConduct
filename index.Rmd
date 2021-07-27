@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "The Bioconductor Code of Conduct committee"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -8,18 +8,16 @@ knit: (function(input_file, encoding) {
 output: html_document
 ---
 
-# Introducing the Bioconductor Code of Conduct committee
-
 The Bioconductor Code of Conduct committee (CoCc) is responsible for developing, deseminating,
 and upholding the Code of Conduct. The CoCc reports to the Bioconductor Community Advisory Board. It is currently chaired by Saskia Freytag. Membership is by invitation only, but community members are invited to contribute to via raising issue (see below).
 
 This meta-repository is used for general discussions of public facing materials. These include
 the following:
 
-### [Code of Conduct](./docs/CoC_doc.html)
+### [Code of Conduct](./CoC_doc.html)
 
 
-### Summary of incident report
+### Summary of incident report 
 
 ### Transparency report
 

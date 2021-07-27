@@ -10,7 +10,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
-## Version 1.0.1 (November 25, 2020)
+## Version 1.0.2 (July 27, 2021)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
@@ -28,7 +28,7 @@ In line with these values, Bioconductor is dedicated to providing a welcoming, s
 * identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language etc.
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities) or electronic communication channel (including but not limited to community-bioc Slack, the support site, online forums and social media communications).
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities) or electronic communication channel (including but not limited to community-bioc Slack, the support site, online forums, package review site and social media communications). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
 We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
 
