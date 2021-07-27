@@ -1,0 +1,27 @@
+---
+title: "Transparency Report"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'transparency_report.html'))})
+author: "Bioconductor Code of Conduct Committee"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+## Bioconductor Transparency Report
+
+The Biconductor Code of Conduct sets standards for how our community interacts with others. A Code of Conduct without appropriate reporting and response procedures is difficult to enforce transparently, and furthermore a lack of transparency in the outcomes of Code of Conduct incidents leaves the community without knowledge of how or if the organizers worked to resolve incidents.
+
+In our efforts to continue to improve how Bioconductor handles CoC incidents.
+With that in mind, we have prepared the following to help the community understand what kind of incidents we received reports about and how the Bioconductor CoCc responded.
+
+### 2021
+
+* A community member reported use of mocking and insulting language on the Bioconductor slack channel. The post was deleted and the poster was officially warned.  
+
+### 2020
+
+* A volunteer reported personal messages from a community member of a intimidating and bullying nature. The CoCc decided to resolve this conflict by a private reprimand to the  
+community member.

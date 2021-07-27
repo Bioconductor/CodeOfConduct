@@ -15,14 +15,20 @@ This meta-repository is used for general discussions of public facing materials.
 the following:
 
 ### [Code of Conduct](./CoC_doc.html)
+This is the working Code of Conduct document outlining the rules for participants of
+Bioconductor community.  
 
+### [Summary of Incident Report](./incident_response.html) 
+This document summarizes the procedures of the CoCc after receival of an incident. Note that
+this document is the summary of a non-public guide to incident response available only to
+Bioconductor CoCc members.
 
-### Summary of incident report 
-
-### Transparency report
+### [Transparency Report](./transparency_report.html)
 
 ### Translation of Code of Conduct
 
 
 ## Raising an issue
+
+If you wish to address any aspects of the outlined documents or general comments, questions, or concerns regarding the procedures and processes of the Bioconductor CoCc, you are welcome to raise an [issue](https://github.com/Bioconductor/CodeOfConduct/issues). (We also encourage pull requests.) Please do not raise actual Code of Conduct violations using this venue. 
 

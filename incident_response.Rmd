@@ -1,0 +1,45 @@
+---
+title: "Summary of Incident Response Guide"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'incident_response.html'))})
+author: "Bioconductor Code of Conduct Committee"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+## Procedures for investigating and resolving Code of Conduct violations
+
+This document briefly summarizes the process of the code of conduct committee after receiving a report of a violation, as well as the appeals process. 
+
+### Report Acknowledgement
+
+After receiving a report, the Code of Conduct Committee will confirm receipt within 24 hours. If the report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident.
+
+### Initial Incident Response Assessment
+
+After acknowledging receipt of a report, the next step in the process is an initial incident response assessment. This includes asking members of the committee to recuse themselves if they have conflicts of interest. During this step documentation of the incident is started.
+
+### Informing the Reportee
+
+After the initial assessment, the reportee (person named as a violator of the code of conduct in the report) is informed. Information passed to the reportee will include an account of the alleged incident without compromising the anonymity of any anonymous reporters. The reportee will be asked to confirm the receipt and given the opportunity to state their views of the incident. Furthermore they will be informed of the remaining process as well as the appeals process, and given an expected timeline for the next communication from the committee. Any statements by the reportee will be documented.
+
+### Resolution
+
+The committee will meet in order to discuss and eventually vote on a resolution to the incident. Possible resolutions that the committee can take are simple communication of resolution to the reportee and non-anonymous reporters if the committee determines that there is no evidence of a breach, a warning, temporary suspensions, or permanent suspensions. Note that suspensions can influence a person’s abilities to submit or maintain packages as well as hold leadership positions within Bioconductor.
+
+### Appeal Process
+
+Any individual(s) involved in a report handled by the committee has the right to appeal a decision made by the committee. An appeal can be made directly to the committee.
+ 
+The email should include documentation related to the incident to support the appeal. The said documentation may include, but does not have to be limited to:
+ 
+* Information from the reportee justifying reasoning for the appeal.
+* Letters of support from community members.
+* Statements from other individuals involved in the incident to support the appeal.
+
+Appeals can be requested up to 30 days after a resolution has been determined.
+
+
