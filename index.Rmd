@@ -16,7 +16,8 @@ the following:
 
 ### [Code of Conduct](./CoC_doc.html)
 This is the working Code of Conduct document outlining the rules for participants of
-Bioconductor community.  
+Bioconductor community. This is a working document and may be ahead of the [official 
+Code of Conduct released](http://www.bioconductor.org/about/code-of-conduct/).
 
 ### [Summary of Incident Report](./incident_response.html) 
 This document summarizes the procedures of the CoCc after receival of an incident. Note that
