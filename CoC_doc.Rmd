@@ -88,7 +88,6 @@ We value your attendance and participation at Bioconductor events and in our com
 * Yagoub Adam yagoub@alumni.usp.br (until 2022)
 * Leonardo Collado-Torres lcolladotor@gmail.com (until 2022)
 * Laurent Gatto laurent.gatto@gmail.com (until 2023)
-* Stephanie Hicks shicks19@jhu.edu (until 2023)
 * Michael Love michaelisaiahlove@gmail.com (until 2024)
 * Federico Marini fede.maro@gmail.com (until 2024)
 * Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024)
