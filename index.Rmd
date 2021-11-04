@@ -27,11 +27,9 @@ Bioconductor CoCc members.
 ### [Transparency Report](./transparency_report.html)
 This document summarize the incidents that the CoCc dealt with and their resolutions.
 
-### [Translation of the Code of Conduct](https://crowdin.com/project/bioconductor-code-of-conduct .)
+### [Translation of the Code of Conduct](https://kevinrue.github.io/bioc_coc_multilingual/)
 The Code of Conduct has been translated by some of our members into several languages other than English. 
 Note that in case of dispute [the officially released English version of the Code of Conduct](http://www.bioconductor.org/about/code-of-conduct/) supersedes. 
-
-
 
 ## Raising an issue
 

@@ -19,9 +19,8 @@ With that in mind, we have prepared the following to help the community understa
 
 ### 2021
 
-* A community member reported use of mocking and insulting language on the Bioconductor slack channel. The post was deleted and the poster was officially warned.  
+* A community member reported use of mocking and insulting language on the Bioconductor slack. The post was deleted and the poster was officially warned.  
 
 ### 2020
 
-* A volunteer reported personal messages from a community member of a intimidating and bullying nature. The CoCc decided to resolve this conflict by a private reprimand to the  
-community member.
+* A volunteer reported personal messages from a community member of a intimidating and bullying nature. The CoCc decided to resolve this conflict by a private reprimand to the community member.
