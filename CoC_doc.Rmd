@@ -84,7 +84,7 @@ We value your attendance and participation at Bioconductor events and in our com
 
 #### _Ombudsperson_
 
-We understand that you may want an impartial person overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an Ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decision's made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other 
+We understand that you may want an impartial person overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an Ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decisions made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other 
 resources. The ombudsperson can be contacted directly via email (see below) to
 ensure a confidential, impartial, informal and independent process. 
 
@@ -101,7 +101,7 @@ ensure a confidential, impartial, informal and independent process.
 * Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
 * Johannes Rainer johannes.rainer@eurac.edu (until 2023) he/him [EN, IT]
 * Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
-* Kevin Rue-Albrecht (until 2024) he/him [FR, EN]
+* Kevin Rue-Albrecht kevinrue67@gmail.com  (until 2024) he/him [FR, EN]
 * Charlotte Soneson charlottesoneson@gmail.com (until 2023) she/her [EN, SE]
 * (Ombusdperson) Beatrix Serrano-Solano beatrizserrano.galaxy@gmail.com (Galaxy project) she/her 
 
