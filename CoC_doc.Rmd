@@ -10,7 +10,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
-## Version 1.0.2 (July 27, 2021)
+## Version 1.0.3 (March 6, 2022)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
@@ -82,17 +82,26 @@ Our team will be happy to help you get the relevant support (e.g. help contactin
 
 We value your attendance and participation at Bioconductor events and in our community.
 
+#### _Ombudsperson_
+
+We understand that you may want an impartial person overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an Ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decision's made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other 
+resources. The ombudsperson can be contacted directly via email (see below) to
+ensure a confidential, impartial, informal and independent process. 
+
+
 ### Code of Conduct Committee 
 
-* (Chair) Saskia Freytag sas.freytag@gmail.com (until 2023)
-* Yagoub Adam yagoub@alumni.usp.br (until 2022)
-* Leonardo Collado-Torres lcolladotor@gmail.com (until 2022)
-* Laurent Gatto laurent.gatto@gmail.com (until 2023)
-* Michael Love michaelisaiahlove@gmail.com (until 2024)
-* Federico Marini fede.maro@gmail.com (until 2024)
-* Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024)
-* Anna Quaglieri anna.quaglieri16@gmail.com (until 2024)
-* Johannes Rainer johannes.rainer@eurac.edu (until 2023)
-* Lluís Revilla lluis.revilla@gmail.com (until 2024)
-* Charlotte Soneson charlottesoneson@gmail.com (until 2023)
+* (Chair) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
+* Yagoub Adam yagoub@alumni.usp.br (until 2022) he/him [EN]
+* Leonardo Collado-Torres lcolladotor@gmail.com (until 2022) he/him [EN, ES]
+* Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [EN, FR]
+* Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN]
+* Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
+* Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
+* Anna Quaglieri anna.quaglieri16@gmail.com (until 2024) she/her [EN, IT]
+* Johannes Rainer johannes.rainer@eurac.edu (until 2023) he/him [EN, IT]
+* Lluís Revilla lluis.revilla@gmail.com (until 2024) he/him [CAT, ES, EN]
+* Kevin Rue-Albrecht (until 2024) he/him [FR, EN]
+* Charlotte Soneson charlottesoneson@gmail.com (until 2023) she/her [EN, SE]
+* (Ombusdperson) Beatrix Serrano-Solano beatrizserrano.galaxy@gmail.com (Galaxy project) she/her 
 
