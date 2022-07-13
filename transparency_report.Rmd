@@ -17,6 +17,10 @@ The Biconductor Code of Conduct sets standards for how our community interacts w
 In our efforts to continue to improve how Bioconductor handles CoC incidents.
 With that in mind, we have prepared the following to help the community understand what kind of incidents we received reports about and how the Bioconductor CoCc responded.
 
+### 2022
+
+* A community member reported a github issue logged by another community member that in tone did not adhere to the standard of a kind and friendly environment. The CoCc decided to resolve this conflict by a private reprimand to the community member in question
+
 ### 2021
 
 * A community member reported use of mocking and insulting language on the Bioconductor slack. The post was deleted and the poster was officially warned.  
