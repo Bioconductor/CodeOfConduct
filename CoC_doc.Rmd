@@ -15,7 +15,7 @@ output: html_document
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
 The Bioconductor community values
-an open approach to science that promotes the 
+an open approach to science that promotes 
 
 * sharing of ideas, code, software and expertise
 * collaboration
@@ -25,10 +25,10 @@ an open approach to science that promotes the
 
 In line with these values, Bioconductor is dedicated to providing a welcoming, supportive, collegial experience free of harassment, intimidation, and bullying regardless of:
 
-* identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language etc.
+* identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language, etc.
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
 
-By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities) or electronic communication channel (including but not limited to community-bioc Slack, the support site, online forums, package review site and social media communications). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), or electronic communication channel (including but not limited to community-bioc Slack, the support site, online forums, package review site, and social media communications). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
 
 We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
 
@@ -57,7 +57,7 @@ Intimidation and bullying include, but are not limited to:
 ## Enforcement
 Anyone asked to stop harassing or intimidating behavior are expected to comply immediately.
 
-If a person/s contravene the Code of Conduct the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members. This includes warning the alleged offender or temporary/permanent expulsion from the event and/or electronic platforms under Bioconductor’s control.
+If a person contravene the Code of Conduct, the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members. This includes warning the alleged offender or temporary/permanent expulsion from the event and/or electronic platforms under Bioconductor’s control.
 
 The Code of Conduct committee may take action to redress anything designed to, or with the clear impact of, disrupting an event or electronic communication platform or making the environment hostile for any community member.
 
@@ -84,7 +84,7 @@ We value your attendance and participation at Bioconductor events and in our com
 
 #### _Ombudsperson_
 
-We understand that you may want an  person unrelated to Bioconductor overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an Ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decisions made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other 
+We understand that you may want a person unrelated to Bioconductor overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decisions made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other 
 resources. The ombudsperson can be contacted directly via email (see below) to
 ensure a confidential, impartial, informal and independent process. 
 
@@ -99,7 +99,7 @@ This procedure is briefly summarized [here](https://bioconductor.github.io/CodeO
 * (Chair) Saskia Freytag sas.freytag@gmail.com (until 2023) she/her [EN, DE]
 * Yagoub Adam yagoub@alumni.usp.br (until 2022) he/him [EN] (CAB)
 * Leonardo Collado-Torres lcolladotor@gmail.com (until 2022) he/him [EN, ES]
-* Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (CAB, European Bioconductor Society)
+* Laurent Gatto laurent.gatto@gmail.com (until 2023) he/him [FR, EN] (TAB, European Bioconductor Society)
 * Michael Love michaelisaiahlove@gmail.com (until 2024) he/him [EN] (TAB)
 * Federico Marini fede.maro@gmail.com (until 2024) he/him [EN, IT, DE]
 * Sowmya Parthiban sowmyaparthiban@gmail.com (until 2024) she/her [EN, Tamil]
