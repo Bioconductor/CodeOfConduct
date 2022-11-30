@@ -10,7 +10,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
-## Version 1.1.0 (25th of November, 2022)
+## Version 1.2.0 (25th of November, 2022)
 
 _Initial project-wide Code of Conduct, expanded from previous conference-specific documents_
 
