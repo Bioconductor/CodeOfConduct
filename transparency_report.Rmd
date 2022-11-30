@@ -14,8 +14,7 @@ output: html_document
 
 The Biconductor Code of Conduct sets standards for how our community interacts with others. A Code of Conduct without appropriate reporting and response procedures is difficult to enforce transparently, and furthermore a lack of transparency in the outcomes of Code of Conduct incidents leaves the community without knowledge of how or if the organizers worked to resolve incidents.
 
-In our efforts to continue to improve how Bioconductor handles CoC incidents.
-With that in mind, we have prepared the following to help the community understand what kind of incidents we received reports about and how the Bioconductor CoCc responded.
+In our efforts to continue to improve how Bioconductor handles CoC incidents, we have prepared the following to help the community understand what kind of incidents we received reports about and how the Bioconductor CoCc responded.
 
 ### 2022
 
